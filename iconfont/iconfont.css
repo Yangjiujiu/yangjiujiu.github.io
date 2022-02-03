@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3163635 */
+  src: url('iconfont.woff2?t=1643461648806') format('woff2'),
+       url('iconfont.woff?t=1643461648806') format('woff'),
+       url('iconfont.ttf?t=1643461648806') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhuye:before {
+  content: "\ee1a";
+}
+
+.icon-jiangxu:before {
+  content: "\ee1f";
+}
+
+.icon-shengxu:before {
+  content: "\ee20";
+}
+
+.icon-biaoqian:before {
+  content: "\ee0a";
+}
+
+.icon-gerenzhongxin:before {
+  content: "\ee0d";
+}
+
+.icon-bianji:before {
+  content: "\ee15";
+}
+
+.icon-caidan:before {
+  content: "\ee16";
+}
+
+.icon-erweima:before {
+  content: "\ee17";
+}
+
+.icon-morentouxiang:before {
+  content: "\ee18";
+}
+
+.icon-mima:before {
+  content: "\ee19";
+}
+
+.icon-zhiding:before {
+  content: "\ee2b";
+}
+
+.icon-shuangxianshangjiantou:before {
+  content: "\ee30";
+}
+
+.icon-shuangxianyoujiantou:before {
+  content: "\ee31";
+}
+
+.icon-QQ:before {
+  content: "\ee4a";
+}
+
